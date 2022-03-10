@@ -1,0 +1,7 @@
+{
+  "name": "com.credersi.app.movie",
+  "description": "movie",
+  "dependencies": {
+    "@lightningjs/sdk": "^4.8.1"
+  }
+}
